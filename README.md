@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lam Nguyen 👋</h1>
 <p>
-Computer Science Graduate | BSN Student at Weber State University | Data & Systems Enthusiast
+Computer Science Graduate | Data & Systems Enthusiast
 </p>
 
 
